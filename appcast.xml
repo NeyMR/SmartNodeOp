@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>SmartNodeOps</title>
+		<link>https://t.me/PiNodechat</link>
+		<description>Release notes for SmartNodeOps</description>
+		<language>en</language>
+
+		<!-- Add the item for the latest version -->
+		<item>
+			<title>Version 1.0.4</title>
+			<description>
+				<![CDATA[
+                <h2>Release Notes:</h2>
+                <ul>
+                    <li>Feature 1</li>
+                    <li>Feature 2</li>
+                    <!-- Add more features or changes here -->
+                </ul>
+                ]]>
+			</description>
+			<pubDate>Sat, 20 july 2023</pubDate>
+			<enclosure url="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/NeyMR/SmartNodeOps/SmartNodeOps.exe" sparkle:version="1.0.5" length="147456" type="application/octet-stream" />
+		</item>
+	</channel>
+</rss>
