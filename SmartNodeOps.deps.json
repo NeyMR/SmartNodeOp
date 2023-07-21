@@ -10,10 +10,23 @@
         "dependencies": {
           "Autoupdater.NET.Official": "1.8.3",
           "CommandLineParser": "2.9.1",
-          "ItsSimple.NetStatData": "1.0.0"
+          "ItsSimple.NetStatData": "1.0.0",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.22621.29"
         },
         "runtime": {
           "SmartNodeOps.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.29": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.22621.24",
+            "fileVersion": "10.0.22621.29"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.3.42921"
+          }
         }
       },
       "Autoupdater.NET.Official/1.8.3": {
@@ -146,6 +159,11 @@
   "libraries": {
     "SmartNodeOps/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.29": {
+      "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
     },
