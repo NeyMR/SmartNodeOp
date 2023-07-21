@@ -9,7 +9,8 @@
       "SmartNodeOps/1.0.0": {
         "dependencies": {
           "Autoupdater.NET.Official": "1.8.3",
-          "CommandLineParser": "2.9.1"
+          "CommandLineParser": "2.9.1",
+          "Microsoft.Web.WebView2": "1.0.1823.32"
         },
         "runtime": {
           "SmartNodeOps.dll": {}
