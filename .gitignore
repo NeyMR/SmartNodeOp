@@ -361,3 +361,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/sv/AutoUpdater.NET.resources.dll
+/th/AutoUpdater.NET.resources.dll
+/tr/AutoUpdater.NET.resources.dll
+/zh/AutoUpdater.NET.resources.dll
+/zh-TW/AutoUpdater.NET.resources.dll
+/sk/AutoUpdater.NET.resources.dll
+/nl/AutoUpdater.NET.resources.dll
+/pl/AutoUpdater.NET.resources.dll
+/pt/AutoUpdater.NET.resources.dll
+/pt-BR/AutoUpdater.NET.resources.dll
+/ru/AutoUpdater.NET.resources.dll
+/cs/AutoUpdater.NET.resources.dll
+/da/AutoUpdater.NET.resources.dll
+/de/AutoUpdater.NET.resources.dll
+/es/AutoUpdater.NET.resources.dll
+/fr/AutoUpdater.NET.resources.dll
+/it/AutoUpdater.NET.resources.dll
+/ja-JP/AutoUpdater.NET.resources.dll
+/ko/AutoUpdater.NET.resources.dll
+/lv/AutoUpdater.NET.resources.dll
+/ar/AutoUpdater.NET.resources.dll
