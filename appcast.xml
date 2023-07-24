@@ -8,7 +8,7 @@
 
 		<!-- Add the item for the latest version -->
 		<item>
-			<title>Version 1.0.1</title>
+			<title>Version 1.0.2</title>
 			<description>
 				<![CDATA[
                 <h2>Release Notes:</h2>
@@ -20,7 +20,7 @@
                 ]]>
 			</description>
 			<pubDate>12:23 AM July 22, 2023</pubDate>
-			<enclosure url="https://neymr.github.io/SmartNodeOp/SmartNodeOps.exe" sparkle:version="1.0.1" length="147456" type="application/octet-stream" />
+			<enclosure url="https://neymr.github.io/SmartNodeOp/SmartNodeOps.exe" sparkle:version="1.0.2" length="147456" type="application/octet-stream" />
 		</item>
 	</channel>
 </rss>
