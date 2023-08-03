@@ -1,1 +1,4 @@
 1.0.2.9
+- Initial Release Update 1
+- Fixed issue Test
+- Improved performance
