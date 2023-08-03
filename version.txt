@@ -1,5 +1,5 @@
-1.0.3.1
+1.0.3.2
 
 - Initial Release Update 1
-- Fixed issue Test 1.0.3.1
+- Fixed issue Test 1.0.3.2
 - Improved performance
