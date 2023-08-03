@@ -1,5 +1,4 @@
-Update Version: 
-1.0.3.3
+Update Version: 1.0.3.3
 
 Update Notes:
 - Initial Release Update 1
