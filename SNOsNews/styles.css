@@ -14,11 +14,30 @@ header {
   text-align: center;
 }
 
+
+.header-logo {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    margin-right: 10px; /* Add some margin to the right of the logo */
+}
+
+
+.warning {
+    font-size: 14px;
+    color: red;
+    text-align: center;
+    padding: 10px;
+    background-color: #ffeeee;
+    border: 1px solid #ffcccc;
+}
+
+
 .container {
   max-width: 800px;
   margin: auto;
   padding: 1rem;
 }
+
 
 .features-section {
   background-color: #fff;
