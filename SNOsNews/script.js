@@ -7,8 +7,9 @@ document.addEventListener("DOMContentLoaded", function() {
         tabs.forEach(tab => tab.classList.remove("active"));
         tabContents.forEach(content => content.classList.remove("active"));
 
-        const tab = document.querySelector(`[data-tab="${tabId}"]`);
-        const content = document.querySelector(`[data-content="${tabId}"]`);
+		const tab = document.querySelector(`[data-tab="${tabId}"]`);
+		const content = document.querySelector(`[data-tab-content="${tabId}"]`);
+
 
         tab.classList.add("active");
         content.classList.add("active");
