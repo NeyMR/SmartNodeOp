@@ -77,8 +77,27 @@
         </div>
 
         <!-- Tab content for Updates -->
-        <div class="tab-content" data-tab-content="updates">
-            <h2>Version 1.0.6.6 Feature Highlights:</h2>
+        <div class="tab-content" data-tab-content="updates">		
+			<h2>Version 1.0.7.0 Feature Highlights:</h2>
+
+			<h3>Pi Consensus Container Metrics Updates:</h3>
+			<ul>
+				<li>Docker Volume and Available Space Visualization: This enables a visual representation of Node Disk Usage.</li>
+				<li>Log Size Adjustments: Logs now retain valuable time-framed information while striving to minimize application memory usage. This is an ongoing process to keep the tool lightweight and with minimal impact on system performance during monitoring.</li>
+				<li>Reduced Frequency of CPU and Memory Usage Metrics: These metrics now update every 60 seconds (equivalent to 10 minutes for a full frame).</li>
+			</ul>
+
+			<h3>SmartNodeOps Fixes:</h3>
+			<ul>
+				<li>Addition of Memory Manager and DataManager: These enhancements improve performance for long-run monitoring. It's recommended to run monitoring for shorter periods while we continue to fine-tune these features. Currently, a 6-hour run uses around 500-600MB of memory, but we're aiming for even lower memory usage for longer monitoring sessions.</li>
+				<li>Performance Updates: More performance optimizations have been implemented in the codebase.</li>
+			</ul>				
+
+        </div>
+
+        <!-- Tab content for Previous Releases -->
+        <div class="tab-content" data-tab-content="releases">		
+		    <h2>Version 1.0.6.6 Feature Highlights:</h2>
 			
             <h3>SmartNodeOps Fixes:</h3>
             <ul>
@@ -91,10 +110,9 @@
                 <li>Log Size reduced size while still retaining valuable time framed information.</li>
                 <li>container CPU and Memory Usage metrics reduced to updates every 60s = 10 minutes full Frame .</li>
             </ul>
-        </div>
-
-        <!-- Tab content for Previous Releases -->
-        <div class="tab-content" data-tab-content="releases">
+			
+				<ul>------------------------------------------------------------------------------------------</ul>
+				
 		    <h2>Version 1.0.6.0 Feature Highlights:</h2>
             <h3>Pi Node Metrics:</h3>
             <ul>
